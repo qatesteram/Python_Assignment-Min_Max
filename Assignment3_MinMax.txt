@@ -1,0 +1,8 @@
+#Create a set
+seta = set([45, 10, 7, 15, 95, 20,4,82])
+#Find maximum value
+print(max(seta))
+#Find minimum value
+print(min(seta))
+
+
